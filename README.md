@@ -14,6 +14,8 @@
 \
 **Программа представлена здесь, чтобы можно было ознакомиться интересующимся людям для оценки практических навыков разработчика.**
 
+# English language
+
 A program with a graphical interface on Kivy for searching for people according to specified criteria through the Vk social network using the vk api. The search starts with one person, checking their friends, then friends of friends, and so on to the specified degree of search. The DBMS was used to study its basic functionality.
 Created for personal use.
 
